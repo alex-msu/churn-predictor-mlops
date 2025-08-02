@@ -1,0 +1,22 @@
+# Core scientific stack
+pandas>=1.5.0
+numpy>=1.22.0
+scikit-learn>=1.2.0
+joblib>=1.2.0
+
+# Visualización
+matplotlib>=3.5.0
+seaborn>=0.11.2
+
+# MLOps & tracking
+mlflow>=2.0.1
+
+# Dataset access
+kagglehub>=0.0.1
+
+# (Opcional para futura API REST)
+# fastapi>=0.100.0
+# uvicorn>=0.22.0
+
+# (Opcional para futura visualización)
+# streamlit>=1.24.0

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv/
+.env/
+
+# Imagenes generadas
+artifacts/
+
+# Archivos generados
+*.log
+*.db
+debug_log.txt
+*.png
+*.pkl
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Modelos pre-generados
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
