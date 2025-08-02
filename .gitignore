@@ -15,7 +15,6 @@ artifacts/
 *.log
 *.db
 debug_log.txt
-*.png
 *.pkl
 
 # MLflow
